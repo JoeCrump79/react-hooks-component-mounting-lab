@@ -23,6 +23,8 @@
     ]
   },
   "dependencies": {
+    "@testing-library/jest-dom": "^5.16.5",
+    "@testing-library/react": "^12.1.5",
     "core-js": "^3.32.2",
     "react": "^16.4.1",
     "react-dom": "^16.4.1",
