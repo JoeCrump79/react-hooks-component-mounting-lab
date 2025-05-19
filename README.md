@@ -112,3 +112,4 @@ involved in 3rd party libraries.
 - [React: Component Specs and Lifecycle](https://reactjs.org/docs/react-component.html)
 
 [set-interval]: https://www.w3schools.com/jsref/met_win_setinterval.asp
+// force re-grade
